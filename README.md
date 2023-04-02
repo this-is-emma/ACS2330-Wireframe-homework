@@ -63,6 +63,7 @@ The goal of the assignment is to create wireframes for the SFPOPOS site we built
                   - Text: Opening hours
                   - Text: Tags
                   - Text: Coordinates
+                  
               .
               .
               .
@@ -70,6 +71,7 @@ The goal of the assignment is to create wireframes for the SFPOPOS site we built
               .
               .
               .
+
 
           - Cell 9:
               - Title: Place Name
