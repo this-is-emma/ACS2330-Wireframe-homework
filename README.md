@@ -23,9 +23,9 @@ Here is a snapshot of Discover Cameroon website:
 ### Step 1. Write three user stories for the site: 
 
 
-- As a user, I would like to find out what are places that I can visit as a tourist in Cameroon. 
-- As a user, I would like to know the hours of the public spaces as well as their location so that I can plan a visit accordingly.
-- As a user, I would like to see images of the available spaces to help me decide which ones I like the most.
+- As a tourist, I would like to find out what are places that I can visit in Cameroon. 
+- As a local resident or visitor, I would like to know the opening hours of the public spaces as well as their location so that I can plan a visit accordingly.
+- As a tourist, I would like to see images of the available spaces to help me decide which ones I like the most.
 
 ### Step 2. Make an outline: 
 
