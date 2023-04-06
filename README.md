@@ -18,6 +18,7 @@ Here is a snapshot of Discover Cameroon website:
 
 ![About](https://user-images.githubusercontent.com/8417822/229379768-38e205b9-aaa0-4708-8fef-0174eda99a9c.jpg)
 
+We will add a new page for the newsletter. 
 
 
 ### Step 1. Write three user stories for the site: 
@@ -41,6 +42,7 @@ Here is a snapshot of Discover Cameroon website:
     1.2 - Nav
           1.2.1 - NavLink: Home
           1.2.2 - NavLink: About
+          1.2.3 - NavLink: Subscribe
 
     1.3 - Body
 
@@ -121,6 +123,7 @@ Here is a snapshot of Discover Cameroon website:
     2.2 - Nav
           2.2.1 - NavLink: Home
           2.2.2 - NavLink: About
+          2.2.3 - NavLink: Subscribe
 
     2.3 - Body
           2.3.1 - Title: About Cameroun
@@ -129,6 +132,29 @@ Here is a snapshot of Discover Cameroon website:
     2.4 - Footer
           2.4.1 - Text: Put together by Edith Sakatia
           2.4.2 - Text: All image from Visiter Le Cameroon Avec Moi (Embed link redirecting https://www.facebook.com/visiterlecamerounavecmoi)
+
+3.0 - SUBSCRIBE 
+
+    3.1 - Header
+          3.1.1 - Page Title: DISCOVER CAMEROON
+          3.1.2 - Sub title: The jewel in the heart of Africa
+
+    3.2 - Nav
+          3.2.1 - NavLink: Home
+          3.2.2 - NavLink: About
+          3.2.3 - NavLink: Subscribe
+
+    3.3 - Body
+          3.3.1 - Title: Register for our newsletter!
+          3.3.1 - FORM: 
+          
+                3.3.1.1 - Input field: placeholder showing username
+                3.3.1.2 - Input field: placeholder showing email
+                3.3.1.3 - Checkbox: Would you like to opt in to receive our newsletter?
+                
+    3.4 - Footer
+          3.4.1 - Text: Put together by Edith Sakatia
+          3.4.2 - Text: All image from Visiter Le Cameroon Avec Moi (Embed link redirecting https://www.facebook.com/visiterlecamerounavecmoi)
 ```
 
 ### Step 3. Wire frame the React Fundamentals Tutorial: 
